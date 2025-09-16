@@ -48,8 +48,11 @@
 ## 🐍 My Contributions
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalk2523&count_private=true&theme=react&border_radius=10" alt="streak stats" />
-
+  <img 
+    width="390"
+    src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ujjwalk2523&count_private=true&theme=react&border_radius=10" 
+    alt="GitHub Streak Stats" 
+  />
 </div>
 
 ---
@@ -63,16 +66,20 @@
 
 <div align="center">
 
-<!-- ✅ Fixed Streak Stats -->
-<img width="390" src="https://github-readme-streak-stats.vercel.app/?user=ujjwalk2523&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+  <!-- Streak Stats using salesp07 Vercel link -->
+  <img 
+      width="390"
+      src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ujjwalk2523&count_private=true&theme=react&border_radius=10" 
+      alt="GitHub Streak Stats" 
+    />
 
-<!-- GitHub Stats -->
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=ujjwalk2523&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <!-- GitHub Stats -->
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=ujjwalk2523&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 
-<br/>
+  <br/>
 
-<!-- Top Languages -->
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalk2523&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+  <!-- Top Languages -->
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalk2523&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 
 </div>
 
