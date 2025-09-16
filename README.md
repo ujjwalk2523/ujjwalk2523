@@ -22,8 +22,9 @@
 
 <div align="center"> 
   <a href="mailto:ujjwalbhumi0@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email Ujjwal Bhumi" />
+</a>
+
   <a href="https://www.linkedin.com/in/ujjwal-singh-07baa5354" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
