@@ -48,7 +48,8 @@
 ## 🐍 My Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ujjwalk2523/ujjwalk2523/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalk2523&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+
 </div>
 
 ---
