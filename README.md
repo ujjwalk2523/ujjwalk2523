@@ -69,11 +69,7 @@
     />
 
   <!-- GitHub Stats -->
- <img 
-  width="390" 
-  src="https://github-readme-stats.vercel.app/api?username=ujjwalk2523&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&include_all_commits=true&hide_border=false&custom_title=My%20GitHub%20Stats&token=PAT_1" 
-  alt="GitHub Stats" 
-/>
+ <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ujjwalk2523&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 
   <br/>
 
