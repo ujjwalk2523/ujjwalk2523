@@ -69,7 +69,11 @@
     />
 
   <!-- GitHub Stats -->
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=ujjwalk2523&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+ <img 
+  width="390" 
+  src="https://github-readme-stats.vercel.app/api?username=ujjwalk2523&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&include_all_commits=true&hide_border=false&custom_title=My%20GitHub%20Stats&token=PAT_1" 
+  alt="GitHub Stats" 
+/>
 
   <br/>
 
@@ -81,11 +85,12 @@
 <br/><br/>
 <hr/>
 <br/>
-
 <div align="center">
-  <a href="https://ko-fi.com/V7V4RAK9C" target="_blank">
-    <img height="64" style="border:0px;height:64px;" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" alt="Buy Me a Coffee at ko-fi.com" />
+  <a href="https://ujjwal-uiux.vercel.app" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=24&duration=4000&pause=1000&color=FF5722&center=true&vCenter=true&width=350&lines=🚀+Hire+Me;💻+Explore+My+Portfolio" alt="Portfolio Link" />
   </a>
 </div>
+
+
 
 <br/>
