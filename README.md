@@ -11,9 +11,13 @@
 <div align="center">
 
 🔭 I’m currently working on **Carbon Credits Platform** – promoting sustainable practices through data & technology  
+
 🌱 Building a **Lost & Found + Old Items Marketplace** – repair, resell, and give second life to products  
+
 💡 Exploring **React, Node.js, Cloud, Data Science, and Data-Driven Design**  
+
 💬 Ask me about **UI/UX design, HTML/CSS/JS, React, GitHub, or project ideas**  
+
 ⚡ Fun fact: *I believe good design is invisible until it’s missing*  
 
 </div>
