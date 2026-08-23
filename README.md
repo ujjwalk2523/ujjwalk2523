@@ -32,7 +32,7 @@
   <a href="https://www.linkedin.com/in/ujjwal-singh-07baa5354" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://ujjwal-uiux.vercel.app" target="_blank">
+  <a href="https://ujjwal-portfolio-dev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
@@ -82,7 +82,7 @@
 <hr/>
 <br/>
 <div align="center">
-  <a href="https://ujjwal-uiux.vercel.app" target="_blank">
+  <a href="https://ujjwal-portfolio-dev.vercel.app/" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=24&duration=4000&pause=1000&color=FF5722&center=true&vCenter=true&width=350&lines=🚀+Hire+Me;💻+Explore+My+Portfolio" alt="Portfolio Link" />
   </a>
 </div>
