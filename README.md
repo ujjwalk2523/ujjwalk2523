@@ -53,28 +53,33 @@
 
 
 ## 📊 GitHub Stats
-
-<br/><br/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
 
 <div align="center">
 
-  <!-- Streak Stats using salesp07 Vercel link -->
+  <!-- Streak Stats -->
   <img 
-      width="390"
-      src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ujjwalk2523&count_private=true&theme=react&border_radius=10" 
-      alt="GitHub Streak Stats" 
-    />
+    width="390"
+    src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ujjwalk2523&count_private=true&theme=react&border_radius=10" 
+    alt="GitHub Streak Stats" 
+  />
 
   <!-- GitHub Stats -->
- <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ujjwalk2523&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img 
+    width="390"
+    src="https://github-readme-stats-salesp07.vercel.app/api?username=ujjwalk2523&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" 
+    alt="GitHub Stats" 
+  />
 
   <br/>
 
   <!-- Top Languages -->
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalk2523&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+  <img 
+    width="390"
+    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ujjwalk2523&langs_count=8&layout=compact&theme=react&border_radius=10"
+    alt="Top Languages" 
+  />
 
 </div>
 
