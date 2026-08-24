@@ -80,29 +80,16 @@
     src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ujjwalk2523&langs_count=8&layout=compact&theme=react&border_radius=10"
     alt="Top Languages" 
   />
-
-</div>
-
+</br>
 <h2 align="center">🐍 Watch My Contributions Get Eaten!</h2>
 
-<div align="center">
+<p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/ujjwalk2523/ujjwalk2523/output/github-contribution-grid-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/ujjwalk2523/ujjwalk2523/output/github-contribution-grid-snake.svg"
-    />
-
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/ujjwalk2523/ujjwalk2523/output/github-contribution-grid-snake.svg"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ujjwalk2523/ujjwalk2523/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ujjwalk2523/ujjwalk2523/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ujjwalk2523/ujjwalk2523/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
+</p>
 
 <br/>
 <hr/>
