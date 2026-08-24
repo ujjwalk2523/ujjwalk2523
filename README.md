@@ -84,6 +84,18 @@
 </div>
 
 <br/><br/>
+<br/>
+
+<h2 align="center">🐍 My Contribution Snake 🐍</h2>
+
+<div align="center">
+  <img 
+    src="https://raw.githubusercontent.com/ujjwalk2523/ujjwalk2523/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</div>
+
+<br/>
 <hr/>
 <br/>
 <div align="center">
@@ -91,7 +103,5 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=24&duration=4000&pause=1000&color=FF5722&center=true&vCenter=true&width=350&lines=🚀+Hire+Me;💻+Explore+My+Portfolio" alt="Portfolio Link" />
   </a>
 </div>
-
-
-
 <br/>
+
