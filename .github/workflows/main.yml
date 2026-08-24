@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Cool Snake 🐍
 
 on:
   schedule:
@@ -13,13 +13,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate contribution snake
+      - name: Generate Neon Contribution Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ujjwalk2523
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#a855f7&color_dots=#161b22,#2d1b4e,#4c1d95,#7e22ce,#a855f7
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#00f5d4&color_dots=#0d1117,#003d38,#006d5b,#00a896,#00f5d4
 
       - name: Push snake animation
         uses: crazy-max/ghaction-github-pages@v4
