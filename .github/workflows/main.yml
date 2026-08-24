@@ -18,8 +18,8 @@ jobs:
         with:
           github_user_name: ujjwalk2523
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#a855f7&color_dots=#161b22,#2d1b4e,#4c1d95,#7e22ce,#a855f7
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#00f5d4&color_dots=#0d1117,#003d38,#006d5b,#00a896,#00f5d4
+            dist/github-contribution-grid-snake.svg?color_snake=ff00ff&color_dots=161b22,2d1b4e,4c1d95,7e22ce,a855f7
+            dist/github-contribution-grid-snake-dark.svg?color_snake=00f5d4&color_dots=0d1117,003d38,006d5b,00a896,00f5d4
 
       - name: Push snake animation
         uses: crazy-max/ghaction-github-pages@v4
