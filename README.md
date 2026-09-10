@@ -39,7 +39,7 @@
 
 I enjoy building products that combine **clean interfaces, useful backend systems, and intelligent automation**.
 
-My focus is not just on making applications work — I like understanding **how the complete system works**, from the UI and APIs to databases, AI decisions, and deployment.
+My focus isn't just on making applications work — I like understanding **how the complete system fits together**, from the UI and APIs to databases, AI decisions, and deployment.
 
 ---
 
@@ -50,56 +50,45 @@ My focus is not just on making applications work — I like understanding **how 
 <td width="50%">
 
 ### 💳 RecoverIQ
-
 **Autonomous AI Revenue Recovery**
 
 An intelligent payment recovery and smart-dunning platform designed to recover failed payments without blindly retrying transactions.
 
-**Focus**
-
-`AI Decision Engine` · `Razorpay` · `Redis` · `BullMQ` · `PostgreSQL`
+**Focus:** `AI Decision Engine` · `Razorpay` · `Redis` · `BullMQ` · `PostgreSQL`
 
 </td>
-
 <td width="50%">
 
 ### 🕵️ EchoSnare
-
 **AI Threat Intelligence Platform**
 
 A system focused on detecting misinformation, analyzing content, investigating sources and uncovering coordinated threat patterns.
 
-**Focus**
-
-`AI Agents` · `Deepfake Detection` · `Neo4j` · `Web Research` · `Threat Intelligence`
+**Focus:** `AI Agents` · `Deepfake Detection` · `Neo4j` · `Web Research` · `Threat Intelligence`
 
 </td>
 </tr>
-
 <tr>
 <td width="50%">
 
 ### 🎤 LeveLift
-
 **AI Mock Interview Platform**
 
-An interactive interview platform designed to simulate realistic AI-powered interviews and help users improve their preparation.
+An interactive platform that simulates realistic AI-powered interviews to help users prepare and improve.
 
-**Focus**
-
-`Next.js` · `React` · `Firebase` · `Gemini` · `Vapi`
+**Focus:** `Next.js` · `React` · `Firebase` · `Gemini` · `Vapi`
 
 </td>
-
 <td width="50%">
 
-### 🌱 Sustainability Projects
+### 🌱 Carbonly
+**Sustainability & Carbon Tracking**
 
-Exploring technology for **carbon credits, sustainable marketplaces and circular-economy solutions**.
+<!-- TODO: Replace this line with a 1-2 sentence description of what Carbonly actually does — 
+     e.g. what it tracks, who it's for, and the core feature. Couldn't verify repo details automatically. -->
+A project exploring carbon-footprint tracking and sustainable-impact insights.
 
-**Focus**
-
-`Web Development` · `Data` · `UX` · `Sustainability`
+**Focus:** `Web Development` · `Data` · `UX` · `Sustainability`
 
 </td>
 </tr>
@@ -110,36 +99,21 @@ Exploring technology for **carbon credits, sustainable marketplaces and circular
 ## ⚡ Tech Stack
 
 ### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,mysql" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,mysql" /></p>
 
 ### 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,mui" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,mui" /></p>
 
 ### ⚙️ Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,firebase,mongodb,mysql,postgres,redis" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,flask,firebase,mongodb,mysql,postgres,redis" /></p>
 
 ### 🤖 AI / Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=python,tensorflow" /></p>
 
 `AI Agents` · `Machine Learning` · `Data Analysis` · `LLM Applications`
 
 ### 🛠️ Tools & Design
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,postman" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,postman" /></p>
 
 ---
 
@@ -147,14 +121,14 @@ Exploring technology for **carbon credits, sustainable marketplaces and circular
 
 <div align="center">
 
-| Area               | Exploring                             |
-| ------------------ | ------------------------------------- |
-| 🤖 AI              | AI Agents · ML · LLM Applications     |
-| 🌐 Web             | Next.js · TypeScript · APIs           |
-| ⚡ Backend          | Node.js · Python · Redis · PostgreSQL |
-| ☁️ Cloud           | Deployment · Cloud Infrastructure     |
-| 🎨 Design          | UI/UX · Data-Driven Interfaces        |
-| 🧩 Problem Solving | Java · DSA · System Thinking          |
+| Area | Exploring |
+|---|---|
+| 🤖 AI | AI Agents · ML · LLM Applications |
+| 🌐 Web | Next.js · TypeScript · APIs |
+| ⚡ Backend | Node.js · Python · Redis · PostgreSQL |
+| ☁️ Cloud | Deployment · Cloud Infrastructure |
+| 🎨 Design | UI/UX · Data-Driven Interfaces |
+| 🧩 Problem Solving | Java · DSA · System Thinking |
 
 </div>
 
@@ -168,11 +142,7 @@ Exploring technology for **carbon credits, sustainable marketplaces and circular
 
 I enjoy participating in hackathons where ideas have to become **working products under pressure**.
 
-<br/>
-
-**Current interests**
-
-`AI Products` · `FinTech` · `Threat Intelligence` · `Sustainability` · `Developer Tools`
+**Current interests:** `AI Products` · `FinTech` · `Threat Intelligence` · `Sustainability` · `Developer Tools`
 
 </div>
 
@@ -183,7 +153,6 @@ I enjoy participating in hackathons where ideas have to become **working product
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=ujjwalk2523&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" />
-
 <img width="49%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ujjwalk2523&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" />
 
 <br/><br/>
@@ -193,25 +162,14 @@ I enjoy participating in hackathons where ideas have to become **working product
 </div>
 
 ---
-## 🐍 Contribution Activity
+
+## 🧊 Contribution Graph — 3D View
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ujjwalk2523/ujjwalk2523/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ujjwalk2523/ujjwalk2523/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/ujjwalk2523/ujjwalk2523/output/github-contribution-grid-snake.svg"
-    width="100%"
-  />
-</picture>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%" alt="3D contribution calendar"/>
+
+<sub>Generated automatically every day via GitHub Actions — see setup below.</sub>
 
 </div>
 
@@ -253,12 +211,9 @@ AI-Powered Products 🚀
 
 I'm always interested in **interesting ideas, collaborations, hackathons and building useful products.**
 
-<br/>
-
 <a href="https://ujjwal-portfolio-dev.vercel.app/">
 <img src="https://img.shields.io/badge/🚀_Explore_My_Portfolio-111827?style=for-the-badge" />
 </a>
-
 <a href="mailto:ujjwalbhumi0@gmail.com">
 <img src="https://img.shields.io/badge/💌_Let's_Talk-EA4335?style=for-the-badge" />
 </a>
@@ -274,8 +229,6 @@ I'm always interested in **interesting ideas, collaborations, hackathons and bui
 <div align="center">
 
 ### ⭐ If you find something interesting here, consider starring the repository!
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=100&section=footer" />
 
